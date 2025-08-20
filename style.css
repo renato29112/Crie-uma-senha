@@ -1,10 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
 :root{
     --branco:white;
-    --cor-de-fundo:#002184;
+    --cor-de-fundo:#8ba0e1;
     --fundo-senha:#a9a9d8;
-    --fundo-texto:#020b4b;
-    --borda:#0044ff;
+    --fundo-texto:#424a86;
+    --borda:#485067;
     --fonte-pincipal:'Roboto Condensed';
 }
 body {   
