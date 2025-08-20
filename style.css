@@ -43,11 +43,13 @@ img{
     height: 40px;
 }
 #campo-senha:focus{
-    outline: none;}
+    outline: none;
+}
 .parametro{
     background-color: var(--fundo-texto);
     border: 2px solid var(--branco);
     margin-top: 32px;
+    padding: 24px;
 }
 .parametro-titulo{
     font-family: var(--fonte-pincipal);
