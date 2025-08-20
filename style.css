@@ -42,9 +42,8 @@ img{
     width: 40px;
     height: 40px;
 }
-#campo-senha:focus {
-    outline: none;
-}
+#campo-senha:focus{
+    outline: none;}
 .parametro{
     background-color: var(--fundo-texto);
     border: 2px solid var(--branco);
