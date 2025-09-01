@@ -5,4 +5,4 @@ const checkbox = document.querySelectorAll('.checkbox');
 const botoes = document.querySelectorAll('.parametro-senha-botao');
 const forcaSenha = document.querySelector('forca');
 botoes[0].onclick = diminuitamanho;
-botoes[1].onclick = almentatamanho;
+botoes[1].onclick = aumentatamanho;
