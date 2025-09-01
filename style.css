@@ -93,3 +93,38 @@ label{
         flex-direction: row;
     }
 }
+.checkbox{
+    width: 20px;
+    height: 20px;
+    cursor: pointer;
+}
+.barra{
+    background-color: var(--fundo-senha);
+    height: 30px;
+    width: 100%;
+}
+.fraca{
+    height: 30px;
+    width: 25px;
+    background-color: rgb(116, 0, 0);
+    position: relative;
+    bottom: 30px;
+}
+.media{
+    height: 30px;
+    width: 50px;
+    background-color: rgb(153, 167, 0);
+    position: relative;
+    bottom: 30px;
+}
+.fraca{
+     height: 30px;
+    width: 100px;
+    background-color: rgb(19, 80, 0);
+    position: relative;
+    bottom: 30px;
+}
+.parametro-senha-textos{
+    display: flex;
+    justify-content: space-between;
+}
